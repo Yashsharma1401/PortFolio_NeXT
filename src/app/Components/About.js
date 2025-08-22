@@ -85,6 +85,14 @@ const About = () => {
       icon: "📚",
       status: "Completed",
     },
+    {
+      degree: "SSC (10th)",
+      field: "Dinbai High School, Digras",
+      institution: "Percentage: 80%",
+      year: "2018",
+      icon: "🏫",
+      status: "Completed",
+    },
   ];
 
   const coreValues = [
